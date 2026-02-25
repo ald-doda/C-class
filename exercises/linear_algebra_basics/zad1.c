@@ -8,5 +8,6 @@ int main()
     printf("Unesite broj n:\n");
     scanf("%d", &n);
     printf("Unijeti broj je %d.\n", n);
-
+    return 0;
 }
+
