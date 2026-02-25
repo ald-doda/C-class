@@ -3,7 +3,7 @@
 
 int main()
 {
-    double a, b;
+    double a, b, c;
     printf("Unesite vrijednosti dva broja ciju ar. sredinu zelite da izracunate:\n");
     scanf("%lf %lf %lf", &a, &b, &c);
     double arSrd = (a+b+c)/3;
@@ -11,4 +11,5 @@ int main()
     return 0;
 
 }
+
 
